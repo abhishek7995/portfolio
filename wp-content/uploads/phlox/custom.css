@@ -19,7 +19,7 @@
 .site-header-section.aux-sticky, .aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section { background-color:#FFFFFF; }
 /* site-header-container-scaled-height 
 =========================*/
-.aux-top-sticky .site-header-section.aux-sticky .aux-fill .aux-menu-depth-0 > .aux-item-content, .aux-top-sticky .site-header-section.aux-sticky .aux-header-elements,.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section { height:80px; }
+.aux-top-sticky .site-header-section.aux-sticky .aux-fill .aux-menu-depth-0 > .aux-item-content, .aux-top-sticky .site-header-section.aux-sticky .aux-header-elements,.aux-elementor-header.aux-sticky .elementor-section-wrap > .elementor-section { height:60px; }
 /* site-header-container-height 
 =========================*/
 .site-header-section .aux-header-elements:not(.aux-vertical-menu-elements), .site-header-section .aux-fill .aux-menu-depth-0 > .aux-item-content { height:85px; }
